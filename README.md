@@ -9,7 +9,7 @@ npm i node-zenvia-sms
 How to use:
 
 ```
-const zenvia = require('zenvia-sms')(your_username, your_password);
+const zenvia = require('node-zenvia-sms')(your_username, your_password);
 ```
 
 Example: see [test.js](tests/test.js).
