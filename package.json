@@ -1,0 +1,30 @@
+{
+  "name": "zenvia-sms",
+  "version": "1.0.0",
+  "description": "Send SMS with Zenvia API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesobreira/zenvia-sms.git"
+  },
+  "keywords": [
+    "sms",
+    "mobile",
+    "phone",
+    "flash",
+    "short",
+    "message"
+  ],
+  "author": "Jefrey Santos <jefrey@forteras.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesobreira/zenvia-sms/issues"
+  },
+  "homepage": "https://github.com/jesobreira/zenvia-sms#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
