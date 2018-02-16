@@ -3,7 +3,7 @@
 How to install:
 
 ```
-npm i zenviasms
+npm i node-zenvia-sms
 ```
 
 How to use:
