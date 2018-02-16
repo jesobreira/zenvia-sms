@@ -1,5 +1,5 @@
 {
-  "name": "zenvia-sms",
+  "name": "zenviasms",
   "version": "1.0.0",
   "description": "Send SMS with Zenvia API",
   "main": "index.js",
